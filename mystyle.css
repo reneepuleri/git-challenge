@@ -1,0 +1,23 @@
+h1 {
+	color: red;
+	text-align: center;
+}
+
+p {
+	text-align: center;
+	font-family: tahoma;
+	color: white;
+}
+
+body {
+	background-color: #01AEBF;
+}
+
+ul.a { 
+	list-style-type: square;
+}
+
+li {
+	color: white;
+	font-family: tahoma;
+}
